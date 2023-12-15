@@ -1,4 +1,4 @@
-# GViT21k
+# Facial Expression Recogniton GViT21k
 ### Note
 This is the project assignment for my deep learning class at San Jose State Assignment, Fall 2023.
 
